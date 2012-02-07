@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_id">com.paypal.ipn</string>
+    <string name="app_name">PayPal IPN to C2DM</string>
+    <string name="register_email">Informe seu email</string>
+    <string name="register_server">http://192.168.0.114/PayPal-IPN-C2DM.php/public/index.php</string>
+    <string name="register_button">Registrar</string>
+    <string name="ipn_notification_ticker">IPN</string>
+    <string name="ipn_notification_title">Notificação Instantânea de Pagamento</string>
+    <string name="ipn_notification_text">Nova notificação</string>
+
+</resources>
